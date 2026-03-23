@@ -3,8 +3,8 @@ title: PID和MPC
 published: 2026-03-23
 description: ''
 image: ''
-tags: []
-category: ''
+tags: [算法]
+category: '知识'
 draft: false 
 lang: 'zh-CN'
 ---
