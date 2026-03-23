@@ -6,7 +6,7 @@ image: ''
 tags: []
 category: ''
 draft: false 
-lang: ''
+lang: 'zh-CN'
 ---
 # PID
 1. 数学原理剖析 📐
