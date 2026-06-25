@@ -2,7 +2,7 @@
 title: AI模型真伪判别
 published: 2026-03-24
 description: ''
-image: ''
+image: './images/AI模型真伪判别-cover.png'
 tags: [AI,杂谈]
 category: '知识'
 draft: false 

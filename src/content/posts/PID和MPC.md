@@ -2,7 +2,7 @@
 title: PID和MPC
 published: 2026-03-23
 description: ''
-image: ''
+image: './images/PID和MPC-cover.png'
 tags: [算法]
 category: '知识'
 draft: false 
